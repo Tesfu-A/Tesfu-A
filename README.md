@@ -44,25 +44,17 @@ Here are a few projects I'm proud of:
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/tesfu_alebe" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/Tesfu_Alebachew" target="_blank">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website"/>
   </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tesfu_alebe)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tesfu_Alebachew)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tesfu-A)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tesfu_alebe)
 
