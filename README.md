@@ -12,11 +12,11 @@ I'm a **software developer** specializing in **Web apps and AI**. I enjoy buildi
 
 ## 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=js,ts,python,ruby,java)
-![Frameworks](https://skillicons.dev/icons?i=react,vue,nodejs,rails,django)
-![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
+![Languages](https://skillicons.dev/icons?i=js,python,java,c++)
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,django)
+![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)
 
-<---
+<!---
 
 ## 📈 GitHub Stats
 
