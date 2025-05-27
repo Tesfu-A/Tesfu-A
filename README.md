@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tesfu
 
-I'm a **software developer** specializing in **[your focus area: web apps, backend systems, AI, etc.]**. I enjoy building scalable tools, writing clean code, and solving real-world problems.
+I'm a **software developer** specializing in **Web apps and AI**. I enjoy building scalable tools, writing clean code, and solving real-world problems.
 
 - 🔭 Currently working on: **[Project Name or Stack]**
 - 🌱 Learning: **[New Tech or Concept]**
@@ -16,7 +16,7 @@ I'm a **software developer** specializing in **[your focus area: web apps, backe
 ![Frameworks](https://skillicons.dev/icons?i=react,vue,nodejs,rails,django)
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
 
----
+<---
 
 ## 📈 GitHub Stats
 
@@ -42,7 +42,7 @@ Here are a few projects I'm proud of:
 - [How I Built a CLI Tool in Rust](https://dev.to/yourprofile)
 - [Improving API Performance with FastAPI](https://yourblog.com)
 
----
+--->
 
 ## 🔗 Connect with Me
 
