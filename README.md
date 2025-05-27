@@ -44,7 +44,7 @@ Here are a few projects I'm proud of:
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/tesfu_alebe" target="_blank">
+  <a href="https://linkedin.com/in/tesfualebe" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/Tesfu_Alebachew" target="_blank">
